@@ -1,0 +1,19 @@
+input[type=file]{
+	background-color: LightPink  ;
+	border:none;
+	color:white;
+	padding: 6px 10px
+    text-decoration:none;
+    margin: 3px 1px;
+    cursor:pointer;
+
+}
+
+p{
+	font-family: "微軟正黑體";
+	font-size:25px;
+	color: RoyalBlue  ;
+	letter-spacing: 12px;
+
+
+}
